@@ -7,8 +7,8 @@
 ## Team members / Membres
 | Name / Nom | Role / Rôle | GitHub |
 |---|---|---|
-| | | @ |
-| | | @ |
+| name1 | role1 | @github-username1 |
+| name2 | role2 | @github-username2 |
 
 ## The problem / Le problème
 <!-- What does your challenge ask you to solve? 2–3 sentences, in English. -->
@@ -37,7 +37,7 @@
 -
 
 ---
-### ✅ Before the deadline (Sun 15 Nov, 23:59) / Avant la fin
+### Before the deadline (Sun 15 Nov, 23:59) / Avant la fin
 - [ ] Every section above is filled in (in English)
 - [ ] Demo video/slides link works for someone who is not logged in
 - [ ] AI-use section filled in
