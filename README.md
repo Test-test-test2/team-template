@@ -6,7 +6,8 @@
 ## Team members / Membres
 | Name / Nom | Role / Rôle | GitHub |
 |---|---|---|
-| | | @ |
+| example1 | example1 | @example1 |
+| example2 | example2 | @example2 |
 
 ## The problem / Le problème
 <!-- What problem does your challenge ask you to solve? (2–3 sentences, in English) -->
