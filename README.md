@@ -1,8 +1,8 @@
 # [Project name / Nom du projet]
 
-**Challenge:** [challenge name](link to the challenge page)
-**Space Apps team page / Page de l'équipe :** [link](https://www.spaceappschallenge.org/2026/find-a-team/)
-**Local event:** NASA Space Apps Challenge 2026 – Besançon (14–15 Nov 2026)
+- **Challenge:** [challenge name](link to the challenge page)
+- **Space Apps team page / Page de l'équipe :** [link](https://www.spaceappschallenge.org/2026/find-a-team/)
+- **Local event:** NASA Space Apps Challenge 2026 – Besançon (14–15 Nov 2026)
 
 ## Team members / Membres
 | Name / Nom | Role / Rôle | GitHub |
