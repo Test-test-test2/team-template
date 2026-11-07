@@ -1,0 +1,17 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+# JS
+node_modules/
+dist/
+# Secrets – never commit API keys!
+.env
+*.key
